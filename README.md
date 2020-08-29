@@ -18,3 +18,6 @@ Bitcoin Cash enables the creation of Bitcoin Cash Simple Ledger Protocol (SLP) T
 Michael Ten, a director of Tenqido, is embarking on a pilot project to implement cryptocurrency basic income to those verified as unique humans via the Bright ID project. 
 
 If you feel called to, please fork and replicate this project in your own style. 
+
+You can view Qi UBI Bitcoin Cash Token Distrobutions at: 
+https://memo.cash/token/f17c5b096c513a55e8dff6a8fe6975764485975b6a2186a1da6af677464ea5cd
